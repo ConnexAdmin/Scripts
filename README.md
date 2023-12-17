@@ -1,2 +1,5 @@
 # Scripts
-Connex Automated Scripts
+
+Managed by automation team. 
+
+Contact: admin@useconnex.net
